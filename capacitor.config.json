@@ -1,0 +1,8 @@
+{
+  "appId": "com.kazu.moneyos",
+  "appName": "KAZU",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
