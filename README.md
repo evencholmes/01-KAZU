@@ -110,6 +110,21 @@ Gradle `8.14.5` · AGP `8.3.0` · Min SDK `22` · Target SDK `34`
 
 ═══════════════════════════════════════════════════════════
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/56e257de-6875-4977-82a1-ed8f47febca5" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bd09a88b-3b9c-4699-996e-47bf5fb6c174" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bab8264a-5c4d-4042-9791-7174e7d850a2" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7c198790-1eae-4b13-8bfe-320055300e9d" width="180"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2af5e854-e8fe-40b4-bd55-d06150a0ff21" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c9d59c2d-a482-47c7-bb0e-c5f275813698" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7afdf008-f26d-4f30-b991-ec935c969fff" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dd45aa8f-515f-4da7-9da4-49d996fee364" width="180"/></td>
+  </tr>
+</table>
+
 ---
 
 ## Get KAZU
