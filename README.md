@@ -98,14 +98,6 @@ If something breaks — open an issue. If it works — tell someone who needs it
 - [Android Studio](https://developer.android.com/studio) — APK build
 - No frameworks. No build step for the web layer.
 
-**Build it yourself:**
-```bash
-npm install
-npx cap sync android
-```
-Open `android/` in Android Studio and build the APK.
-Gradle `8.14.5` · AGP `8.3.0` · Min SDK `22` · Target SDK `34`
-
 ---
 
 ═══════════════════════════════════════════════════════════
