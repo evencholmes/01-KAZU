@@ -123,7 +123,7 @@ If something breaks — open an issue. If it works — tell someone who needs it
 
 You got this far. That means something.
 
-**→ [Download APK](https://github.com/evencholmes/01-KAZU/releases/tag/ApkV1.1)** *(replace with your APK link)*
+**→ [Download APK](https://github.com/evencholmes/01-KAZU/releases/tag/ApkV1.1)**
 Direct install. No Play Store. No account. No nonsense.
 **[Direct Download apk](https://github.com/evencholmes/01-KAZU/releases/download/ApkV1.1/01.Kazu.apk)**
 
