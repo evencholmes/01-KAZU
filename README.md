@@ -119,6 +119,13 @@ If something breaks — open an issue. If it works — tell someone who needs it
 
 ---
 
+**→ [Support on Patreon](https://www.patreon.com/jibunshidai81)**
+KAZU is free and will stay free. If it saved you time, stress, or money — a dollar goes a long way toward keeping independent tools like this alive. A few other free apps live on that page too. Same deal, same spirit.
+
+If money is tight, sharing costs nothing and means just as much.
+
+---
+
 ## Get KAZU
 
 You got this far. That means something.
@@ -127,14 +134,10 @@ You got this far. That means something.
 Direct install. No Play Store. No account. No nonsense.
 **[Direct Download apk](https://github.com/evencholmes/01-KAZU/releases/download/ApkV1.1/01.Kazu.apk)**
 
----
 
-**→ [Support on Patreon](https://www.patreon.com/jibunshidai81)**
-KAZU is free and will stay free. If it saved you time, stress, or money — a dollar goes a long way toward keeping independent tools like this alive. A few other free apps live on that page too. Same deal, same spirit.
+**→ [Try it instantly — no install needed](https://kazu-app.netlify.app/)**
+Works in your browser. No download, no account, no nonsense.
 
-If money is tight, sharing costs nothing and means just as much.
-
----
 
 *Built by [@Jibunshidai81](https://x.com/Jibunshidai81) — engineered with Claude by Anthropic*
 
